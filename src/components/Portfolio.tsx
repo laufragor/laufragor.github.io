@@ -206,7 +206,7 @@ export default function Portfolio() {
             </div>
 
             <a 
-              href="/ref/CV_Andrea_Ricciardelli.pdf"
+              href="/CV_Andrea_Ricciardelli.pdf"
               download
               className="inline-flex items-center gap-2 bg-indigo-600 text-white px-6 py-3 rounded-lg hover:bg-indigo-700 transition-colors mx-auto md:mx-0"
             >
